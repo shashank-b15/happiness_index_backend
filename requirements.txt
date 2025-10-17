@@ -3,7 +3,7 @@ uvicorn
 numpy
 pickle-mixin
 pandas
-scikit-learn
+scikit-learn==1.0.2
 streamlit
 streamlit-option-menu
 requests
