@@ -1,9 +1,11 @@
+setuptools
+wheel
+scikit-learn==1.0.2
 fastapi
 uvicorn
 numpy
 pickle-mixin
 pandas
-scikit-learn==1.0.2
 streamlit
 streamlit-option-menu
 requests
