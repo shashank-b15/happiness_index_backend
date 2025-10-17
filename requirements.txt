@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+numpy
+pickle-mixin
+pandas
+scikit-learn
+streamlit
+streamlit-option-menu
+requests
+python-multipart
+pillow
